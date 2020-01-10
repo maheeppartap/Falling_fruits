@@ -1,16 +1,4 @@
 
-/*
-	falling fruits 3d: assignment 2 for CMPT 361, Simon Fraser University 
-
-	date edited: 03 Nov'2019
-
-	Using angel.h supplied by Prof. Shermer.
-
-	submitted by: Maheeppartap Singh
-
-*/
-
-
 
 #include "include/Angel.h"
 #include <cstdlib>
